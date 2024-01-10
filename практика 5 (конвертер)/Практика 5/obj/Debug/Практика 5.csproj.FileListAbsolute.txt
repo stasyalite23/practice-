@@ -1,0 +1,10 @@
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\bin\Debug\Практика 5.exe.config
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\bin\Debug\Практика 5.exe
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\bin\Debug\Практика 5.pdb
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\obj\Debug\Практика 5.csproj.AssemblyReference.cache
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\obj\Debug\Практика_5.Form1.resources
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\obj\Debug\Практика_5.Properties.Resources.resources
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\obj\Debug\Практика 5.csproj.GenerateResource.cache
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\obj\Debug\Практика 5.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\obj\Debug\Практика 5.exe
+C:\Users\Omen\Desktop\практика курсы\Практика 5\Практика 5\obj\Debug\Практика 5.pdb
