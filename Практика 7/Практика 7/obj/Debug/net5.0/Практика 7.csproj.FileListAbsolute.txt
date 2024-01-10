@@ -1,0 +1,16 @@
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\bin\Debug\net5.0\Практика 7.exe
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\bin\Debug\net5.0\Практика 7.deps.json
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\bin\Debug\net5.0\Практика 7.runtimeconfig.json
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\bin\Debug\net5.0\Практика 7.runtimeconfig.dev.json
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\bin\Debug\net5.0\Практика 7.dll
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\bin\Debug\net5.0\ref\Практика 7.dll
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\bin\Debug\net5.0\Практика 7.pdb
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\Практика 7.csproj.AssemblyReference.cache
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\Практика 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\Практика 7.AssemblyInfoInputs.cache
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\Практика 7.AssemblyInfo.cs
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\Практика 7.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\Практика 7.dll
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\ref\Практика 7.dll
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\Практика 7.pdb
+C:\Users\Omen\Desktop\практика курсы\Наследование, инкапсуляция и ООП\Практика 7\Практика 7\obj\Debug\net5.0\Практика 7.genruntimeconfig.cache
