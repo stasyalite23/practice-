@@ -1,0 +1,16 @@
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\bin\Debug\net5.0\Практика 1.exe
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\bin\Debug\net5.0\Практика 1.deps.json
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\bin\Debug\net5.0\Практика 1.runtimeconfig.json
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\bin\Debug\net5.0\Практика 1.runtimeconfig.dev.json
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\bin\Debug\net5.0\Практика 1.dll
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\bin\Debug\net5.0\ref\Практика 1.dll
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\bin\Debug\net5.0\Практика 1.pdb
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\Практика 1.csproj.AssemblyReference.cache
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\Практика 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\Практика 1.AssemblyInfoInputs.cache
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\Практика 1.AssemblyInfo.cs
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\Практика 1.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\Практика 1.dll
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\ref\Практика 1.dll
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\Практика 1.pdb
+C:\Users\Omen\Desktop\практика курсы\Практика 1\Практика 1\obj\Debug\net5.0\Практика 1.genruntimeconfig.cache
