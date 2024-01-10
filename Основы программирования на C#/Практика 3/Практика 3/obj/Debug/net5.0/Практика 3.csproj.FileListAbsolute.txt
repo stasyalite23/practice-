@@ -1,0 +1,16 @@
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\bin\Debug\net5.0\Практика 3.exe
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\bin\Debug\net5.0\Практика 3.deps.json
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\bin\Debug\net5.0\Практика 3.runtimeconfig.json
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\bin\Debug\net5.0\Практика 3.runtimeconfig.dev.json
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\bin\Debug\net5.0\Практика 3.dll
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\bin\Debug\net5.0\ref\Практика 3.dll
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\bin\Debug\net5.0\Практика 3.pdb
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\Практика 3.csproj.AssemblyReference.cache
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\Практика 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\Практика 3.AssemblyInfoInputs.cache
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\Практика 3.AssemblyInfo.cs
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\Практика 3.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\Практика 3.dll
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\ref\Практика 3.dll
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\Практика 3.pdb
+C:\Users\Omen\Desktop\практика курсы\Основы программирования на C#\Практика 3\Практика 3\obj\Debug\net5.0\Практика 3.genruntimeconfig.cache
